@@ -1,0 +1,14 @@
+{
+  "name": "juros.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "all.juros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
